@@ -1,0 +1,10 @@
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\bin\Debug\PasswdFinder.exe.config
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\bin\Debug\PasswdFinder.exe
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\bin\Debug\PasswdFinder.pdb
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.csproj.AssemblyReference.cache
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.Properties.Resources.resources
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.csproj.GenerateResource.cache
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.csproj.CoreCompileInputs.cache
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.exe
+C:\Users\Gyro\Desktop\C#\pf\PasswdFinder\PasswdFinder\obj\Debug\PasswdFinder.pdb
