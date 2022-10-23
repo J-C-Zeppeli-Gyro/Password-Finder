@@ -1,0 +1,16 @@
+C:\Users\norbi\Desktop\passwds\passwds\bin\Debug\passwds.exe.config
+C:\Users\norbi\Desktop\passwds\passwds\bin\Debug\passwds.exe
+C:\Users\norbi\Desktop\passwds\passwds\bin\Debug\passwds.pdb
+C:\Users\norbi\Desktop\passwds\passwds\obj\Debug\passwds.csproj.AssemblyReference.cache
+C:\Users\norbi\Desktop\passwds\passwds\obj\Debug\passwds.csproj.SuggestedBindingRedirects.cache
+C:\Users\norbi\Desktop\passwds\passwds\obj\Debug\passwds.csproj.CoreCompileInputs.cache
+C:\Users\norbi\Desktop\passwds\passwds\obj\Debug\passwds.exe
+C:\Users\norbi\Desktop\passwds\passwds\obj\Debug\passwds.pdb
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\bin\Debug\passwds.exe.config
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\bin\Debug\passwds.exe
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\bin\Debug\passwds.pdb
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\obj\Debug\passwds.csproj.AssemblyReference.cache
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\obj\Debug\passwds.csproj.SuggestedBindingRedirects.cache
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\obj\Debug\passwds.csproj.CoreCompileInputs.cache
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\obj\Debug\passwds.exe
+C:\Users\norbi\Documents\PasswordFinder\passwds\passwds\obj\Debug\passwds.pdb
