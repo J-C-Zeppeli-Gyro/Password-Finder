@@ -1,0 +1,1 @@
+AppName;LoginName/Email;Password;Recovery/2FA
