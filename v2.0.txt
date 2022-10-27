@@ -1,3 +1,0 @@
--Replaced the List All button with List All (Pretty print)
--Added a new button called 'Changer' that allows you to change the password from the search query, both manually and randomly (pass length 10-50characters)
--bugfixes
