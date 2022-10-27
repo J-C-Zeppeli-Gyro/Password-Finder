@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswdFinderGUI", "PasswdFinderGUI\PasswdFinderGUI.csproj", "{0E3FE667-C98D-4A4B-A70D-7017078B65E1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Passwd-Finder-v3.0", "Passwd-Finder-v3.0\Passwd-Finder-v3.0.vdproj", "{A0E3AF93-B2B8-4441-A97C-89BC9AD71C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3FE667-C98D-4A4B-A70D-7017078B65E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3FE667-C98D-4A4B-A70D-7017078B65E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3FE667-C98D-4A4B-A70D-7017078B65E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3FE667-C98D-4A4B-A70D-7017078B65E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E3AF93-B2B8-4441-A97C-89BC9AD71C86}.Debug|Any CPU.ActiveCfg = Debug
+		{A0E3AF93-B2B8-4441-A97C-89BC9AD71C86}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D5BD24-CBCD-4BB3-BE26-16B32856C6A6}
+	EndGlobalSection
+EndGlobal

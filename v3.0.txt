@@ -1,0 +1,8 @@
+-Added a new button that allows you to add a new row to your txt password file
+-Added a new function: Drag&Drop
+	Now you can D&D your txt file into the form without having to find your file in the opened explorer 
+-UI changes:
+	-The default theme is System Default
+	-Added a Theme selector (Dark / Light / System Default)
+-Added an Information tab about the program and me.
+-Bugfixes
